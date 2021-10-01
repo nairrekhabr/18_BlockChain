@@ -1,6 +1,6 @@
-# 18_BlockChain
+## 18_BlockChain
 ## To create &amp; test first custom network blockchain transactions using MyCrypto
-## In this project we create our first block chain nodes and test it for ethereum transactions.
+### In this project we create our first block chain nodes and test it for ethereum transactions.
 #### 1.To begin with create 2 accounts Node1 and Node2 at the terminal.
 #### 2.Once the nodes are created,at the terminal next create your custom network(example amazon)for the flow of transactions.
 #### 3.Then create and configure your genesis, seal and prefund your accounts with ethereum.
